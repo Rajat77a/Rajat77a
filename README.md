@@ -1,63 +1,51 @@
-# 👋 Hey, I'm Rajat Krishnan
+# Rajat Krishnan
 
-🎓 Integrated M.Tech CSE @ VIT  
-💡 Early in my developer journey — focused on Python, Java & AI creativity  
-📸 Founder of **ZedWorks** – my personal brand for creative product content  
-🤖 Skilled in AI Prompting – using ChatGPT, Canva AI & other tools to solve real content problems  
-💻 Building projects with honesty, intention, and practical tools
+AI builder, prompt engineer, and Computer Science student at VIT-AP.
 
----
+I build practical AI-assisted products, automate workflows, and experiment with full-stack systems that solve real problems. My current focus is using LLMs, backend APIs, and modern web tools to turn ideas into working products quickly.
 
-## 🛠️ Skills (Actively Growing)
-- Programming: Python (beginner), Java (beginner)
-- Tools: GitHub, Canva Pro, InVideo, CapCut
-- AI Prompting: Strong ability to craft effective prompts for generating ideas, layouts, and captions  
-- Content Creation: Product posts, reels, social content for businesses via ZedWorks
+## What I'm Building
 
----
+### PrepPeer
+AI-powered mock interview platform for students and job seekers.
 
-## 🤖 AI Prompting Experience
+- Generates role-based interview questions
+- Evaluates answers with AI feedback and score breakdowns
+- Tracks sessions, ranks users, and connects results to a live leaderboard
+- Built with Next.js, Supabase, Tailwind CSS, and Groq/Llama
 
-I use tools like ChatGPT, Canva AI, and Notion AI to:
+[Live App](https://prep-peer.vercel.app)
 
-- Generate branded captions, offer ideas, and content hooks for clients  
-- Use prompt engineering for layout concepts, storytelling, and content strategies  
-- Work faster and smarter by treating AI as a **creative thinking partner**  
-- Apply AI in content marketing, not just experimentation
+### GridWatch
+Energy theft detection and grid monitoring system.
 
-💡 I believe prompting is a modern skill — and I’m sharpening mine through real work every day.
+- Uses anomaly detection on simulated meter data
+- Flags suspicious usage patterns and transformer-level losses
+- Built with Python, Scikit-learn, Streamlit, Pandas, Folium, SQLite, and Plotly
 
----
+### University Event Management System
+Full-stack event platform for students, faculty, and admins.
 
-## 📁 Projects (Built with What I Know Right Now)
-- **ZedWorks Portfolio**: My own brand – food & product visuals using Canva + AI  
-- **Basic Python Scripts**: Age calculator, to-do list, simple CLI tools (in progress)  
-- **Java CLI Projects**: ATM simulator, quiz app (coming soon)
+- Event browsing, registration, role-based access, and QR generation
+- Built with Node.js, Express.js, MongoDB, JavaScript, JWT, and REST APIs
 
----
+## Tech I Work With
 
-## 🌱 Currently Working On
-- Strengthening core programming in Python and Java through hands-on projects  
-- Uploading my ZedWorks portfolio as a GitHub project  
-- Building an AI-powered resume helper using Python + ChatGPT
+**Languages:** Python, Java, C, JavaScript  
+**Web / Backend:** Next.js, Node.js, Express.js, REST APIs, Supabase, MongoDB, SQLite  
+**Data / ML:** Scikit-learn, Pandas, NumPy, Streamlit, Plotly, Folium  
+**AI Tools:** OpenAI Codex, Cursor, Claude Code, ChatGPT, Claude, Midjourney, Runway, ElevenLabs  
+**Other Tools:** Git, VS Code, Canva, n8n
 
----
+## Current Focus
 
-📫 Let’s connect:  
-GitHub DM | LinkedIn (coming soon)
+- Building PrepPeer into a reliable AI interview platform
+- Improving backend security, authentication, and leaderboard systems
+- Exploring LLM workflows, automation pipelines, and AI-assisted development
+- Strengthening practical software engineering through shipped projects
 
+## Connect
 
-<!--
-**Rajat77a/Rajat77a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- LinkedIn: [linkedin.com/in/rajat-krishnan77](https://www.linkedin.com/in/rajat-krishnan77)
+- Email: [rajatkrishnan321@gmail.com](mailto:rajatkrishnan321@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
