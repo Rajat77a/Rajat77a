@@ -1,4 +1,4 @@
-<img src="assets/studio-hero.svg" alt="Rajat Krishnan product builder hero" width="100%" />
+<img src="assets/profile-hero.svg" alt="Rajat Krishnan portfolio hero" width="100%" />
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="420" alt="Creative coding animation" />
