@@ -1,0 +1,11 @@
+<svg width="430" height="140" viewBox="0 0 430 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="430" height="140" fill="#0B1020"/>
+  <rect x="14" y="14" width="402" height="112" fill="#111827" stroke="#22C55E" stroke-width="2"/>
+  <text x="34" y="52" fill="#BBF7D0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="900">GridWatch</text>
+  <text x="34" y="82" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Energy theft detection with</text>
+  <text x="34" y="104" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">anomaly alerts and dashboards.</text>
+  <path d="M344 100L362 40H390L372 82H394L352 112L362 82H336L344 100Z" fill="#22C55E"/>
+  <path d="M318 92H332V106H318V92Z" fill="#38BDF8"/>
+  <path d="M318 68H332V84H318V68Z" fill="#38BDF8"/>
+  <path d="M318 44H332V60H318V44Z" fill="#38BDF8"/>
+</svg>

@@ -66,11 +66,15 @@ const rajat = {
 
 <p align="center">
   <a href="https://prep-peer.vercel.app"><img src="assets/project-preppeer.svg" width="430" alt="PrepPeer project card" /></a>
-  <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis"><img src="assets/project-bitcoin.svg" width="430" alt="Bitcoin sentiment project card" /></a>
+  <a href="https://github.com/Rajat77a/gridwatch"><img src="assets/project-gridwatch.svg" width="430" alt="GridWatch project card" /></a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis"><img src="assets/project-bitcoin.svg" width="430" alt="Bitcoin sentiment project card" /></a>
   <a href="https://github.com/Rajat77a/university-event-management-system"><img src="assets/project-events.svg" width="430" alt="University events project card" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Rajat77a/ZedWorks-portfolio"><img src="assets/project-zedworks.svg" width="430" alt="ZedWorks project card" /></a>
 </p>
 
