@@ -1,26 +1,20 @@
 <svg width="960" height="270" viewBox="0 0 960 270" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="960" height="270" fill="#050816"/>
-  <rect x="24" y="24" width="912" height="222" fill="#0B1020" stroke="#1E293B" stroke-width="2"/>
+  <rect width="960" height="230" fill="#050816"/>
+  <rect x="24" y="24" width="912" height="182" fill="#0B1020" stroke="#1E293B" stroke-width="2"/>
   <text x="52" y="66" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900">Tech Arsenal</text>
-  <text x="52" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Less clutter. More signal. Core build stack plus the AI tools I actually use.</text>
+  <text x="52" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Less clutter. More signal. Core build stack on top, AI logos below.</text>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
-    <rect x="52" y="124" width="194" height="82" fill="#101A32" stroke="#3178C6" stroke-width="2"/>
+    <rect x="52" y="124" width="194" height="58" fill="#101A32" stroke="#3178C6" stroke-width="2"/>
     <text x="76" y="156" fill="#93C5FD" font-size="20" font-weight="900">Build Stack</text>
-    <text x="76" y="184" fill="#E2E8F0" font-size="14" font-weight="650">Next.js, React, Node</text>
 
-    <rect x="268" y="124" width="194" height="82" fill="#2A1E06" stroke="#F7DF1E" stroke-width="2"/>
+    <rect x="268" y="124" width="194" height="58" fill="#2A1E06" stroke="#F7DF1E" stroke-width="2"/>
     <text x="292" y="156" fill="#FEF08A" font-size="20" font-weight="900">Languages</text>
-    <text x="292" y="184" fill="#E2E8F0" font-size="14" font-weight="650">Python, TypeScript, Java</text>
 
-    <rect x="484" y="124" width="194" height="82" fill="#052E16" stroke="#22C55E" stroke-width="2"/>
+    <rect x="484" y="124" width="194" height="58" fill="#052E16" stroke="#22C55E" stroke-width="2"/>
     <text x="508" y="156" fill="#BBF7D0" font-size="20" font-weight="900">Data Layer</text>
-    <text x="508" y="184" fill="#E2E8F0" font-size="14" font-weight="650">MongoDB, SQLite, Pandas</text>
 
-    <rect x="700" y="124" width="184" height="82" fill="#241044" stroke="#8B5CF6" stroke-width="2"/>
+    <rect x="700" y="124" width="184" height="58" fill="#241044" stroke="#8B5CF6" stroke-width="2"/>
     <text x="724" y="156" fill="#DDD6FE" font-size="20" font-weight="900">AI Workbench</text>
-    <text x="724" y="184" fill="#E2E8F0" font-size="14" font-weight="650">Cursor, Codex, Claude</text>
   </g>
-
-  <text x="52" y="232" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Also using: Antigravity, Windsurf, ChatGPT, Gemini, Perplexity, Lovable, Replit, n8n</text>
 </svg>

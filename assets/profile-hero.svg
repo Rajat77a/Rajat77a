@@ -24,31 +24,32 @@
   <rect width="960" height="300" fill="url(#bg)"/>
   <path d="M0 52H960M0 104H960M0 156H960M0 208H960M0 260H960" stroke="#172033" stroke-width="1"/>
   <path d="M90 0V300M186 0V300M282 0V300M378 0V300M474 0V300M570 0V300M666 0V300M762 0V300M858 0V300" stroke="#172033" stroke-width="1"/>
-  <path d="M34 238L190 116L320 172L456 76L594 126L736 62L910 118" stroke="url(#scan)" stroke-width="3" stroke-linecap="square" filter="url(#glow)"/>
+  <path d="M34 238L190 116L320 172L456 76L594 126L736 62L910 118" stroke="url(#scan)" stroke-width="3" stroke-linecap="square" filter="url(#glow)" opacity="0.65"/>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
     <text x="56" y="72" fill="#94A3B8" font-size="18" font-weight="800" letter-spacing="6">RAJAT77A / PROFILE README</text>
     <text x="54" y="138" fill="#F8FAFC" font-size="56" font-weight="900">Rajat Krishnan</text>
-    <text x="58" y="180" fill="#CBD5E1" font-size="21" font-weight="650">Building useful web products with AI workflows, data thinking, and clean execution.</text>
+    <text x="58" y="178" fill="#CBD5E1" font-size="20" font-weight="650">Building useful web products with AI workflows,</text>
+    <text x="58" y="204" fill="#CBD5E1" font-size="20" font-weight="650">data thinking, and clean execution.</text>
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">
-    <rect x="58" y="214" width="138" height="42" fill="#101A32" stroke="#3178C6" stroke-width="2"/>
-    <text x="82" y="241" fill="#93C5FD">FULL STACK</text>
-    <rect x="212" y="214" width="128" height="42" fill="#2A1E06" stroke="#F7DF1E" stroke-width="2"/>
-    <text x="238" y="241" fill="#FEF08A">PRODUCT</text>
-    <rect x="356" y="214" width="118" height="42" fill="#241044" stroke="#8B5CF6" stroke-width="2"/>
-    <text x="392" y="241" fill="#DDD6FE">AI TOOLS</text>
-    <rect x="490" y="214" width="122" height="42" fill="#052E16" stroke="#22C55E" stroke-width="2"/>
-    <text x="526" y="241" fill="#BBF7D0">DATA</text>
+    <rect x="58" y="228" width="138" height="42" fill="#101A32" stroke="#3178C6" stroke-width="2"/>
+    <text x="82" y="255" fill="#93C5FD">FULL STACK</text>
+    <rect x="212" y="228" width="128" height="42" fill="#2A1E06" stroke="#F7DF1E" stroke-width="2"/>
+    <text x="238" y="255" fill="#FEF08A">PRODUCT</text>
+    <rect x="356" y="228" width="118" height="42" fill="#241044" stroke="#8B5CF6" stroke-width="2"/>
+    <text x="392" y="255" fill="#DDD6FE">AI TOOLS</text>
+    <rect x="490" y="228" width="122" height="42" fill="#052E16" stroke="#22C55E" stroke-width="2"/>
+    <text x="526" y="255" fill="#BBF7D0">DATA</text>
   </g>
 
-  <g transform="translate(700 48)">
-    <path d="M78 0L156 45V136L78 182L0 136V45L78 0Z" fill="#111827" stroke="#61DAFB" stroke-width="3"/>
-    <path d="M78 0L156 45L78 91L0 45L78 0Z" fill="#3178C6"/>
-    <path d="M0 45L78 91V182L0 136V45Z" fill="#8B5CF6"/>
-    <path d="M156 45L78 91V182L156 136V45Z" fill="#22C55E"/>
-    <path d="M78 0L156 45L78 91L0 45L78 0Z" fill="#61DAFB" opacity="0.35"/>
-    <animateTransform attributeName="transform" type="translate" values="700 48; 700 38; 700 48" dur="4s" repeatCount="indefinite"/>
+  <g transform="translate(760 58)">
+    <path d="M56 0L112 32V98L56 132L0 98V32L56 0Z" fill="#111827" stroke="#61DAFB" stroke-width="3"/>
+    <path d="M56 0L112 32L56 66L0 32L56 0Z" fill="#3178C6"/>
+    <path d="M0 32L56 66V132L0 98V32Z" fill="#8B5CF6"/>
+    <path d="M112 32L56 66V132L112 98V32Z" fill="#22C55E"/>
+    <path d="M56 0L112 32L56 66L0 32L56 0Z" fill="#61DAFB" opacity="0.35"/>
+    <animateTransform attributeName="transform" type="translate" values="760 58; 760 48; 760 58" dur="4s" repeatCount="indefinite"/>
   </g>
 </svg>
