@@ -3,12 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Rajat77a">
-    <img src="https://komarev.com/ghpvc/?username=Rajat77a&label=Views&color=00d9ff&style=flat-square" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Rajat77a?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rajat77a?label=Followers&style=flat-square&color=00d9ff&labelColor=0d1117" alt="GitHub followers" />
-  </a>
+  <img src="https://img.shields.io/badge/AI%20Builder-111111?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="AI Builder" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-111111?style=for-the-badge&logo=nextdotjs&logoColor=00D9FF" alt="Full-stack developer" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-111111?style=for-the-badge&logo=jupyter&logoColor=00D9FF" alt="Data explorer" />
+  <img src="https://img.shields.io/badge/VIT%20CSE-111111?style=for-the-badge&logo=academia&logoColor=00D9FF" alt="VIT CSE" />
 </div>
 
 <br />
@@ -52,7 +50,6 @@ const rajat = {
   <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/v0-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
   <img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
   <img src="https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -62,25 +59,25 @@ const rajat = {
 
 <div align="center">
   <a href="https://github.com/Rajat77a/PrepPeer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajat77a&repo=PrepPeer&theme=tokyonight&hide_border=true&border_radius=8" alt="PrepPeer repository card" />
+    <img src="https://img.shields.io/badge/PrepPeer-AI%20Mock%20Interview%20Platform-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="PrepPeer project link" />
   </a>
   <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajat77a&repo=bitcoin-sentiment-analysis&theme=tokyonight&hide_border=true&border_radius=8" alt="Bitcoin sentiment analysis repository card" />
+    <img src="https://img.shields.io/badge/Bitcoin%20Sentiment-Data%20Analysis%20Notebook-00D9FF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117" alt="Bitcoin sentiment analysis project link" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://github.com/Rajat77a/university-event-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajat77a&repo=university-event-management-system&theme=tokyonight&hide_border=true&border_radius=8" alt="University event management system repository card" />
+    <img src="https://img.shields.io/badge/University%20Events-Full%20Stack%20Platform-00D9FF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="University event management system project link" />
   </a>
   <a href="https://github.com/Rajat77a/ZedWorks-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajat77a&repo=ZedWorks-portfolio&theme=tokyonight&hide_border=true&border_radius=8" alt="ZedWorks portfolio repository card" />
+    <img src="https://img.shields.io/badge/ZedWorks-Creative%20Portfolio-00D9FF?style=for-the-badge&logo=canva&logoColor=white&labelColor=0d1117" alt="ZedWorks portfolio project link" />
   </a>
 </div>
 
 ## GitHub Dashboard
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajat77a&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Rajat77a&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat77a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
