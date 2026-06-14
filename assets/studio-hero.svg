@@ -1,0 +1,58 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="960" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="0.52" stop-color="#EEF6FF"/>
+      <stop offset="1" stop-color="#ECFDF5"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="72" y1="72" x2="476" y2="154" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="0.42" stop-color="#2563EB"/>
+      <stop offset="0.72" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#0F172A" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="960" height="360" fill="url(#paper)"/>
+  <path d="M0 282C152 214 262 328 416 244C554 168 658 104 960 138V360H0V282Z" fill="#DBEAFE"/>
+  <path d="M0 304C174 246 264 342 432 272C618 194 720 198 960 238V360H0V304Z" fill="#D1FAE5"/>
+  <path d="M685 0H960V360H772L642 186L685 0Z" fill="#111827"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="64" y="74" fill="#64748B" font-size="16" font-weight="900" letter-spacing="5">RAJAT KRISHNAN</text>
+    <text x="62" y="136" fill="url(#ink)" font-size="54" font-weight="950">Product Builder</text>
+    <text x="65" y="176" fill="#334155" font-size="23" font-weight="800">Full-stack systems, AI workflows, and data-backed products.</text>
+    <text x="66" y="209" fill="#475569" font-size="17" font-weight="650">Integrated MTech CSE @ VIT · building PrepPeer and practical tech experiments.</text>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="900">
+    <rect x="66" y="246" width="138" height="42" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+    <text x="96" y="273" fill="#1D4ED8">WEB APPS</text>
+    <rect x="220" y="246" width="132" height="42" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+    <text x="252" y="273" fill="#6D28D9">AI TOOLS</text>
+    <rect x="368" y="246" width="132" height="42" fill="#FFFFFF" stroke="#059669" stroke-width="2"/>
+    <text x="408" y="273" fill="#047857">DATA</text>
+  </g>
+
+  <g filter="url(#cardShadow)">
+    <rect x="606" y="56" width="256" height="236" fill="#FFFFFF"/>
+    <rect x="628" y="78" width="212" height="126" fill="#0F172A"/>
+    <path d="M648 176L682 138L712 156L746 104L796 134" stroke="#38BDF8" stroke-width="5" stroke-linecap="square" stroke-linejoin="round">
+      <animate attributeName="stroke-dasharray" values="0 190;190 0;0 190" dur="5s" repeatCount="indefinite"/>
+    </path>
+    <rect x="648" y="226" width="54" height="12" fill="#2563EB"/>
+    <rect x="648" y="250" width="136" height="12" fill="#CBD5E1"/>
+    <rect x="720" y="226" width="86" height="12" fill="#7C3AED"/>
+  </g>
+
+  <g transform="translate(764 42)">
+    <path d="M48 0L96 28V82L48 110L0 82V28L48 0Z" fill="#FFFFFF" stroke="#111827" stroke-width="2"/>
+    <path d="M48 0L96 28L48 56L0 28L48 0Z" fill="#93C5FD"/>
+    <path d="M0 28L48 56V110L0 82V28Z" fill="#A78BFA"/>
+    <path d="M96 28L48 56V110L96 82V28Z" fill="#34D399"/>
+    <animateTransform attributeName="transform" type="translate" values="764 42;764 30;764 42" dur="4s" repeatCount="indefinite"/>
+  </g>
+</svg>
