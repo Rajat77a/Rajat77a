@@ -1,13 +1,5 @@
 <img src="assets/profile-hero.svg" alt="Rajat Krishnan portfolio hero" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=640&lines=Building+products+with+code+and+clarity;Designing+systems+that+feel+useful;Learning+deeply.+Shipping+consistently." alt="Typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="480" alt="Coding vibe animation" />
-</p>
-
 ## About Me
 
 ```ts
