@@ -32,6 +32,36 @@ const rajat = {
 
 <img src="assets/tech-lab.svg" alt="Color-coded tech arsenal" width="100%" />
 
+## AI Stack
+
+<p align="center">
+  <strong>Cursor</strong> ·
+  <strong>Codex</strong> ·
+  <strong>Claude</strong> ·
+  <strong>ChatGPT</strong> ·
+  <strong>Gemini</strong> ·
+  <strong>Perplexity</strong> ·
+  <strong>Windsurf</strong> ·
+  <strong>Antigravity</strong> ·
+  <strong>Lovable</strong> ·
+  <strong>Replit</strong> ·
+  <strong>n8n</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/Windsurf-00A3FF?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
+
 ## Featured Work
 
 <p align="center">
