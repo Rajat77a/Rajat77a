@@ -5,21 +5,21 @@
       <stop offset="0.5" stop-color="#0B1020"/>
       <stop offset="1" stop-color="#061B2B"/>
     </linearGradient>
-    <linearGradient id="textGrad" x1="56" y1="76" x2="784" y2="116" gradientUnits="userSpaceOnUse">
+    <linearGradient id="textGrad" x1="56" y1="74" x2="860" y2="116" gradientUnits="userSpaceOnUse">
       <stop stop-color="#F7DF1E"/>
-      <stop offset="0.26" stop-color="#61DAFB"/>
+      <stop offset="0.25" stop-color="#61DAFB"/>
       <stop offset="0.58" stop-color="#8B5CF6"/>
       <stop offset="1" stop-color="#22C55E"/>
     </linearGradient>
-    <filter id="lift" x="-10%" y="-20%" width="120%" height="140%">
+    <filter id="lift" x="-10%" y="-20%" width="120%" height="150%">
       <feDropShadow dx="4" dy="5" stdDeviation="0.5" flood-color="#1D4ED8" flood-opacity="0.6"/>
       <feDropShadow dx="8" dy="10" stdDeviation="1" flood-color="#7C3AED" flood-opacity="0.35"/>
     </filter>
-    <clipPath id="typingClip">
-      <rect x="56" y="78" width="0" height="40">
-        <animate attributeName="width" values="0;790;790;0;0" keyTimes="0;0.58;0.78;0.98;1" dur="6.4s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
+    <clipPath id="clip1"><rect x="56" y="78" width="0" height="44"><animate attributeName="width" values="0;760;760;0;0" keyTimes="0;0.10;0.17;0.20;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip2"><rect x="56" y="78" width="0" height="44"><animate attributeName="width" values="0;0;760;760;0;0" keyTimes="0;0.20;0.30;0.37;0.40;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip3"><rect x="56" y="78" width="0" height="44"><animate attributeName="width" values="0;0;760;760;0;0" keyTimes="0;0.40;0.50;0.57;0.60;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip4"><rect x="56" y="78" width="0" height="44"><animate attributeName="width" values="0;0;820;820;0;0" keyTimes="0;0.60;0.70;0.77;0.80;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="clip5"><rect x="56" y="78" width="0" height="44"><animate attributeName="width" values="0;0;820;820;0" keyTimes="0;0.80;0.90;0.97;1" dur="24s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect width="960" height="190" fill="url(#panel)"/>
@@ -29,13 +29,24 @@
   <circle cx="98" cy="50" r="6" fill="#22C55E"/>
   <text x="126" y="56" fill="#64748B" font-family="Consolas, monospace" font-size="14" font-weight="700">intro.rajat</text>
 
-  <text x="56" y="108" fill="#020617" font-family="Consolas, monospace" font-size="29" font-weight="900" filter="url(#lift)">Hi, I'm Rajat Krishnan - CSE @ VIT.</text>
-  <g clip-path="url(#typingClip)">
-    <text x="56" y="108" fill="url(#textGrad)" font-family="Consolas, monospace" font-size="29" font-weight="900">Hi, I'm Rajat Krishnan - CSE @ VIT.</text>
+  <g font-family="Consolas, monospace" font-size="28" font-weight="900" filter="url(#lift)">
+    <text x="56" y="110" fill="#020617">Hi, I'm Rajat Krishnan.</text>
+    <text x="56" y="110" fill="#020617">Integrated MTech CSE @ VIT.</text>
+    <text x="56" y="110" fill="#020617">Building PrepPeer and full-stack products.</text>
+    <text x="56" y="110" fill="#020617">Exploring AI tools, automation, and data.</text>
+    <text x="56" y="110" fill="#020617">Turning ideas into useful shipped projects.</text>
   </g>
-  <rect x="748" y="82" width="15" height="34" fill="#61DAFB">
-    <animate attributeName="opacity" values="1;1;0;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
 
-  <text x="56" y="146" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">I build PrepPeer, full-stack products, AI workflows, automation tools, and data-backed experiments.</text>
+  <g font-family="Consolas, monospace" font-size="28" font-weight="900">
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip1)">Hi, I'm Rajat Krishnan.</text>
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip2)">Integrated MTech CSE @ VIT.</text>
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip3)">Building PrepPeer and full-stack products.</text>
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip4)">Exploring AI tools, automation, and data.</text>
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip5)">Turning ideas into useful shipped projects.</text>
+  </g>
+
+  <rect x="56" y="132" width="848" height="2" fill="#1E293B"/>
+  <rect x="56" y="132" width="0" height="2" fill="#61DAFB">
+    <animate attributeName="width" values="0;848;0" dur="24s" repeatCount="indefinite"/>
+  </rect>
 </svg>
