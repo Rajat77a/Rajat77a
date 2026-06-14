@@ -1,7 +1,7 @@
 <img src="assets/live-typing.svg" alt="Animated about me typing banner" width="100%" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="520" alt="Coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation" />
 </p>
 
 ## About Me
@@ -32,20 +32,6 @@ const rajat = {
 
 <img src="assets/tech-lab.svg" alt="Color-coded tech arsenal" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Windsurf-00A3FF?style=flat-square&logo=codeium&logoColor=white" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=flat-square&logo=lovable&logoColor=white" alt="Lovable" />
-  <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" alt="Replit" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
 ## Featured Work
 
 <p align="center">
@@ -60,9 +46,29 @@ const rajat = {
 
 ## GitHub Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat77a&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages" />
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat77a&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" width="100%" alt="Top languages" />
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">AI Tools I Build With</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+        <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+        <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+        <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+        <img src="https://img.shields.io/badge/Windsurf-00A3FF?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
+        <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+        <img src="https://img.shields.io/badge/Lovable-FF5A5F?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
+        <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat77a&theme=gruvbox&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
