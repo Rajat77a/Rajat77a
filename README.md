@@ -1,7 +1,7 @@
 <img src="assets/profile-hero.svg" alt="Rajat Krishnan portfolio hero" width="100%" />
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="420" alt="Creative coding animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="520" alt="Coding animation" />
 </p>
 
 ## About Me
