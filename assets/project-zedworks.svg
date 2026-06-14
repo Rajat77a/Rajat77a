@@ -1,0 +1,8 @@
+<svg width="430" height="140" viewBox="0 0 430 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="430" height="140" fill="#0B1020"/>
+  <rect x="14" y="14" width="402" height="112" fill="#111827" stroke="#61DAFB" stroke-width="2"/>
+  <text x="34" y="52" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="900">ZedWorks</text>
+  <text x="34" y="82" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Creative product posts, brand</text>
+  <text x="34" y="104" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">experiments, and content systems.</text>
+  <path d="M334 44L390 72L334 100V44Z" fill="#61DAFB"/>
+</svg>

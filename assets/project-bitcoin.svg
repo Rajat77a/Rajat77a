@@ -1,0 +1,9 @@
+<svg width="430" height="140" viewBox="0 0 430 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="430" height="140" fill="#0B1020"/>
+  <rect x="14" y="14" width="402" height="112" fill="#111827" stroke="#F7DF1E" stroke-width="2"/>
+  <text x="34" y="52" fill="#FEF08A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="900">Bitcoin Sentiment</text>
+  <text x="34" y="82" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Trading data compared with</text>
+  <text x="34" y="104" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">market sentiment signals.</text>
+  <path d="M356 40H386V106H356V40Z" fill="#F7DF1E"/>
+  <path d="M326 72H348V106H326V72Z" fill="#3178C6"/>
+</svg>

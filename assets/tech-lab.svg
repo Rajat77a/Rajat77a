@@ -1,33 +1,26 @@
 <svg width="960" height="270" viewBox="0 0 960 270" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="960" height="270" rx="24" fill="#0B1020"/>
-  <text x="44" y="54" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">Tech Arsenal</text>
-  <text x="44" y="84" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Color-coded by the tools I actually use to build, automate, and ship.</text>
+  <rect width="960" height="270" fill="#050816"/>
+  <rect x="24" y="24" width="912" height="222" fill="#0B1020" stroke="#1E293B" stroke-width="2"/>
+  <text x="52" y="66" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900">Tech Arsenal</text>
+  <text x="52" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="650">Less clutter. More signal. Core build stack plus the AI tools I actually use.</text>
 
-  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800">
-    <rect x="44" y="116" width="180" height="92" rx="18" fill="#172554" stroke="#3178C6"/>
-    <text x="66" y="150" fill="#BFDBFE" font-size="22">Build</text>
-    <text x="66" y="178" fill="#DBEAFE" font-size="14">Next.js, React, TS</text>
-    <text x="66" y="199" fill="#DBEAFE" font-size="14">Node, Express, APIs</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="52" y="124" width="194" height="82" fill="#101A32" stroke="#3178C6" stroke-width="2"/>
+    <text x="76" y="156" fill="#93C5FD" font-size="20" font-weight="900">Build Stack</text>
+    <text x="76" y="184" fill="#E2E8F0" font-size="14" font-weight="650">Next.js, React, Node</text>
 
-    <rect x="244" y="116" width="180" height="92" rx="18" fill="#422006" stroke="#F7DF1E"/>
-    <text x="266" y="150" fill="#FEF08A" font-size="22">Frontend</text>
-    <text x="266" y="178" fill="#FEF3C7" font-size="14">JavaScript, Tailwind</text>
-    <text x="266" y="199" fill="#FEF3C7" font-size="14">Figma, UI systems</text>
+    <rect x="268" y="124" width="194" height="82" fill="#2A1E06" stroke="#F7DF1E" stroke-width="2"/>
+    <text x="292" y="156" fill="#FEF08A" font-size="20" font-weight="900">Languages</text>
+    <text x="292" y="184" fill="#E2E8F0" font-size="14" font-weight="650">Python, TypeScript, Java</text>
 
-    <rect x="444" y="116" width="180" height="92" rx="18" fill="#052E16" stroke="#22C55E"/>
-    <text x="466" y="150" fill="#BBF7D0" font-size="22">Data</text>
-    <text x="466" y="178" fill="#DCFCE7" font-size="14">Python, Pandas</text>
-    <text x="466" y="199" fill="#DCFCE7" font-size="14">SQLite, Plotly, ML</text>
+    <rect x="484" y="124" width="194" height="82" fill="#052E16" stroke="#22C55E" stroke-width="2"/>
+    <text x="508" y="156" fill="#BBF7D0" font-size="20" font-weight="900">Data Layer</text>
+    <text x="508" y="184" fill="#E2E8F0" font-size="14" font-weight="650">MongoDB, SQLite, Pandas</text>
 
-    <rect x="644" y="116" width="272" height="92" rx="18" fill="#2E1065" stroke="#8B5CF6"/>
-    <text x="666" y="150" fill="#DDD6FE" font-size="22">AI Workbench</text>
-    <text x="666" y="178" fill="#EDE9FE" font-size="14">Cursor, Codex, Claude, Windsurf</text>
-    <text x="666" y="199" fill="#EDE9FE" font-size="14">Antigravity, ChatGPT, Gemini, n8n</text>
+    <rect x="700" y="124" width="184" height="82" fill="#241044" stroke="#8B5CF6" stroke-width="2"/>
+    <text x="724" y="156" fill="#DDD6FE" font-size="20" font-weight="900">AI Workbench</text>
+    <text x="724" y="184" fill="#E2E8F0" font-size="14" font-weight="650">Cursor, Codex, Claude</text>
   </g>
 
-  <path d="M60 235H900" stroke="#1F2937" stroke-width="2"/>
-  <circle cx="150" cy="235" r="6" fill="#3178C6"/>
-  <circle cx="332" cy="235" r="6" fill="#F7DF1E"/>
-  <circle cx="534" cy="235" r="6" fill="#22C55E"/>
-  <circle cx="780" cy="235" r="6" fill="#8B5CF6"/>
+  <text x="52" y="232" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="800">Also using: Antigravity, Windsurf, ChatGPT, Gemini, Perplexity, Lovable, Replit, n8n</text>
 </svg>

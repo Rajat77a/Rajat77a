@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="560" alt="Development time animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="480" alt="Coding vibe animation" />
 </p>
 
 ## About Me
@@ -29,23 +29,28 @@ const rajat = {
 ## Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,nextjs,react,tailwind,nodejs,express,mongodb,sqlite,git,github,vscode,figma" alt="Core development stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,ts,nextjs,react,nodejs,mongodb,git,figma" alt="Core development stack icons" />
 </div>
 
 <br />
 
 <img src="assets/tech-lab.svg" alt="Color-coded tech arsenal" width="100%" />
 
+<p align="center">
+  <strong>AI workbench:</strong>
+  Cursor | Codex | Claude | Antigravity | Windsurf | ChatGPT | Gemini | Perplexity | Lovable | Replit | n8n
+</p>
+
 ## Featured Work
 
-<img src="assets/project-stage.svg" alt="Featured project showcase" width="100%" />
+<p align="center">
+  <a href="https://prep-peer.vercel.app"><img src="assets/project-preppeer.svg" width="430" alt="PrepPeer project card" /></a>
+  <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis"><img src="assets/project-bitcoin.svg" width="430" alt="Bitcoin sentiment project card" /></a>
+</p>
 
 <p align="center">
-  <a href="https://prep-peer.vercel.app">PrepPeer Live</a> |
-  <a href="https://github.com/Rajat77a/PrepPeer">PrepPeer Repo</a> |
-  <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis">Bitcoin Sentiment</a> |
-  <a href="https://github.com/Rajat77a/university-event-management-system">University Events</a> |
-  <a href="https://github.com/Rajat77a/ZedWorks-portfolio">ZedWorks</a>
+  <a href="https://github.com/Rajat77a/university-event-management-system"><img src="assets/project-events.svg" width="430" alt="University events project card" /></a>
+  <a href="https://github.com/Rajat77a/ZedWorks-portfolio"><img src="assets/project-zedworks.svg" width="430" alt="ZedWorks project card" /></a>
 </p>
 
 ## GitHub Dashboard
@@ -100,11 +105,9 @@ const rajat = {
 
 ## Connect
 
-<img src="assets/connect-panel.svg" alt="Connect with Rajat" width="100%" />
-
 <p align="center">
-  <a href="https://prep-peer.vercel.app">Launch PrepPeer</a> |
-  <a href="https://www.linkedin.com/in/rajat-krishnan77">LinkedIn</a> |
-  <a href="mailto:rajatkrishnan321@gmail.com">Email</a> |
-  <a href="https://github.com/Rajat77a">GitHub</a>
+  <a href="https://prep-peer.vercel.app"><img src="assets/connect-preppeer.svg" width="210" alt="Launch PrepPeer" /></a>
+  <a href="https://www.linkedin.com/in/rajat-krishnan77"><img src="assets/connect-linkedin.svg" width="210" alt="LinkedIn profile" /></a>
+  <a href="mailto:rajatkrishnan321@gmail.com"><img src="assets/connect-email.svg" width="210" alt="Email Rajat" /></a>
+  <a href="https://github.com/Rajat77a"><img src="assets/connect-github.svg" width="210" alt="Explore GitHub" /></a>
 </p>
