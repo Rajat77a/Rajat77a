@@ -1,23 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Rajat+Krishnan;Integrated+MTech+CSE+%40+VIT;Building+AI%2C+web%2C+and+data-driven+products;Always+learning.+Always+shipping." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Rajat+Krishnan;Integrated+MTech+CSE+%40+VIT;AI+%2B+Web+Product+Builder;Learning+fast.+Shipping+faster." alt="Typing animation" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Rajat77a">
-    <img src="https://komarev.com/ghpvc/?username=Rajat77a&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Rajat77a&label=Views&color=00d9ff&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://github.com/Rajat77a?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rajat77a?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="GitHub followers" />
-  </a>
-  <a href="mailto:rajatkrishnan321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rajatkrishnan321%40gmail.com-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/github/followers/Rajat77a?label=Followers&style=flat-square&color=00d9ff&labelColor=0d1117" alt="GitHub followers" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="520" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Developer working with code animation" />
 </div>
 
 ## About Me
@@ -41,7 +38,24 @@ const rajat = {
 ## Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,ts,js,nextjs,react,tailwind,html,css,nodejs,express,mongodb,sqlite,git,github,vscode,figma" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,nextjs,react,tailwind,nodejs,express,mongodb,sqlite,git,github,vscode,figma" alt="Core development stack icons" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Windsurf-111111?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
+  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/v0-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
+  <img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
+  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </div>
 
 ## Featured Work
@@ -120,15 +134,20 @@ const rajat = {
 
 <div align="center">
   <a href="https://prep-peer.vercel.app">
-    <img src="https://img.shields.io/badge/PrepPeer-Live%20App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="PrepPeer live app badge" />
+    <img src="https://img.shields.io/badge/Try%20PrepPeer-Launch%20Live%20App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Launch PrepPeer live app" />
   </a>
   <a href="https://www.linkedin.com/in/rajat-krishnan77">
-    <img src="https://img.shields.io/badge/LinkedIn-Rajat%20Krishnan-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Rajat%20Krishnan-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Connect on LinkedIn" />
   </a>
+</div>
+
+<br />
+
+<div align="center">
   <a href="mailto:rajatkrishnan321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email badge" />
+    <img src="https://img.shields.io/badge/Email%20Me-rajatkrishnan321%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Rajat" />
   </a>
   <a href="https://github.com/Rajat77a">
-    <img src="https://img.shields.io/badge/GitHub-Rajat77a-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-Rajat77a-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explore GitHub profile" />
   </a>
 </div>
