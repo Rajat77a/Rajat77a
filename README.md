@@ -1,11 +1,11 @@
 <img src="assets/profile-hero.svg" alt="Rajat Krishnan portfolio hero" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=E59F3A&center=true&vCenter=true&width=680&lines=Building+useful+products+with+taste+and+speed;Turning+ideas+into+working+systems;Learning+deeply.+Shipping+consistently." alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=61DAFB&center=true&vCenter=true&width=640&lines=Building+products+with+code+and+clarity;Designing+systems+that+feel+useful;Learning+deeply.+Shipping+consistently." alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="860" alt="Floating technology stack animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="560" alt="Development time animation" />
 </p>
 
 ## About Me
@@ -34,20 +34,19 @@ const rajat = {
 
 <br />
 
-| Build Stack | AI Workbench | Data + Automation |
-| --- | --- | --- |
-| Next.js, React, Tailwind | Cursor, Codex, Claude | Python, Pandas, Notebooks |
-| Node.js, Express, REST APIs | Antigravity, Windsurf, ChatGPT | SQLite, MongoDB, Plotly |
-| TypeScript, JavaScript, Java | Gemini, Perplexity, Lovable | Streamlit, n8n, workflow tools |
+<img src="assets/tech-lab.svg" alt="Color-coded tech arsenal" width="100%" />
 
 ## Featured Work
 
-| Project | What It Shows | Open |
-| --- | --- | --- |
-| **PrepPeer** | Interview practice product with scoring, leaderboard, and shareable results | [Live app](https://prep-peer.vercel.app) / [Repo](https://github.com/Rajat77a/PrepPeer) |
-| **Bitcoin Sentiment Analysis** | Trading data exploration against market sentiment signals | [Repo](https://github.com/Rajat77a/bitcoin-sentiment-analysis) |
-| **University Event Management** | Full-stack platform thinking: roles, registration, events, APIs | [Repo](https://github.com/Rajat77a/university-event-management-system) |
-| **ZedWorks Portfolio** | Creative brand experiments, content systems, and product storytelling | [Repo](https://github.com/Rajat77a/ZedWorks-portfolio) |
+<img src="assets/project-stage.svg" alt="Featured project showcase" width="100%" />
+
+<p align="center">
+  <a href="https://prep-peer.vercel.app">PrepPeer Live</a> |
+  <a href="https://github.com/Rajat77a/PrepPeer">PrepPeer Repo</a> |
+  <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis">Bitcoin Sentiment</a> |
+  <a href="https://github.com/Rajat77a/university-event-management-system">University Events</a> |
+  <a href="https://github.com/Rajat77a/ZedWorks-portfolio">ZedWorks</a>
+</p>
 
 ## GitHub Dashboard
 
@@ -101,9 +100,11 @@ const rajat = {
 
 ## Connect
 
-| Start Here | Best For |
-| --- | --- |
-| [Launch PrepPeer](https://prep-peer.vercel.app) | Seeing my product work in action |
-| [Connect on LinkedIn](https://www.linkedin.com/in/rajat-krishnan77) | Recruiters, collaborators, and project conversations |
-| [Email Me](mailto:rajatkrishnan321@gmail.com) | Direct opportunities and quick reach-outs |
-| [Explore My GitHub](https://github.com/Rajat77a) | Code, experiments, and active repositories |
+<img src="assets/connect-panel.svg" alt="Connect with Rajat" width="100%" />
+
+<p align="center">
+  <a href="https://prep-peer.vercel.app">Launch PrepPeer</a> |
+  <a href="https://www.linkedin.com/in/rajat-krishnan77">LinkedIn</a> |
+  <a href="mailto:rajatkrishnan321@gmail.com">Email</a> |
+  <a href="https://github.com/Rajat77a">GitHub</a>
+</p>

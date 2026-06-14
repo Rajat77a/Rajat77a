@@ -1,0 +1,16 @@
+<svg width="960" height="190" viewBox="0 0 960 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="190" rx="24" fill="#0B1020"/>
+  <text x="44" y="55" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900">Connect</text>
+  <text x="44" y="84" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Clear paths for recruiters, collaborators, and people checking out the build.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="900">
+    <rect x="44" y="112" width="198" height="42" rx="21" fill="#172554" stroke="#3178C6"/>
+    <text x="82" y="139" fill="#DBEAFE">Launch PrepPeer</text>
+    <rect x="262" y="112" width="210" height="42" rx="21" fill="#0F172A" stroke="#61DAFB"/>
+    <text x="296" y="139" fill="#BAE6FD">LinkedIn Profile</text>
+    <rect x="492" y="112" width="186" height="42" rx="21" fill="#422006" stroke="#F7DF1E"/>
+    <text x="536" y="139" fill="#FEF08A">Email Rajat</text>
+    <rect x="698" y="112" width="218" height="42" rx="21" fill="#052E16" stroke="#22C55E"/>
+    <text x="735" y="139" fill="#BBF7D0">Explore GitHub</text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg width="960" height="310" viewBox="0 0 960 310" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="310" rx="24" fill="#080B12"/>
+  <text x="44" y="56" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="30" font-weight="900">Featured Work</text>
+  <text x="44" y="86" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Projects framed by product value, not empty counters.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="44" y="120" width="410" height="72" rx="18" fill="#111827" stroke="#8B5CF6"/>
+    <text x="70" y="151" fill="#DDD6FE" font-size="21" font-weight="900">PrepPeer</text>
+    <text x="70" y="176" fill="#E5E7EB" font-size="14" font-weight="600">AI mock interviews, scoring, leaderboards, shareable results</text>
+    <circle cx="420" cy="154" r="14" fill="#8B5CF6"/>
+
+    <rect x="506" y="120" width="410" height="72" rx="18" fill="#111827" stroke="#F7DF1E"/>
+    <text x="532" y="151" fill="#FEF08A" font-size="21" font-weight="900">Bitcoin Sentiment</text>
+    <text x="532" y="176" fill="#E5E7EB" font-size="14" font-weight="600">Trading data explored against market sentiment signals</text>
+    <circle cx="882" cy="154" r="14" fill="#F7DF1E"/>
+
+    <rect x="44" y="214" width="410" height="72" rx="18" fill="#111827" stroke="#22C55E"/>
+    <text x="70" y="245" fill="#BBF7D0" font-size="21" font-weight="900">University Events</text>
+    <text x="70" y="270" fill="#E5E7EB" font-size="14" font-weight="600">Full-stack roles, events, registrations, APIs</text>
+    <circle cx="420" cy="248" r="14" fill="#22C55E"/>
+
+    <rect x="506" y="214" width="410" height="72" rx="18" fill="#111827" stroke="#61DAFB"/>
+    <text x="532" y="245" fill="#BAE6FD" font-size="21" font-weight="900">ZedWorks</text>
+    <text x="532" y="270" fill="#E5E7EB" font-size="14" font-weight="600">Creative product posts, captions, and brand experiments</text>
+    <circle cx="882" cy="248" r="14" fill="#61DAFB"/>
+  </g>
+</svg>
