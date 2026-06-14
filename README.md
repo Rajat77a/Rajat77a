@@ -1,19 +1,12 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=850&color=00D9FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Rajat+Krishnan;Integrated+MTech+CSE+%40+VIT;AI+%2B+Web+Product+Builder;Learning+fast.+Shipping+faster." alt="Typing animation" />
-</div>
+<img src="assets/profile-hero.svg" alt="Rajat Krishnan portfolio hero" width="100%" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Builder-111111?style=for-the-badge&logo=openai&logoColor=00D9FF" alt="AI Builder" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-111111?style=for-the-badge&logo=nextdotjs&logoColor=00D9FF" alt="Full-stack developer" />
-  <img src="https://img.shields.io/badge/Data%20Explorer-111111?style=for-the-badge&logo=jupyter&logoColor=00D9FF" alt="Data explorer" />
-  <img src="https://img.shields.io/badge/VIT%20CSE-111111?style=for-the-badge&logo=academia&logoColor=00D9FF" alt="VIT CSE" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=E59F3A&center=true&vCenter=true&width=680&lines=Building+useful+products+with+taste+and+speed;Turning+ideas+into+working+systems;Learning+deeply.+Shipping+consistently." alt="Typing animation" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Developer working with code animation" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="860" alt="Floating technology stack animation" />
+</p>
 
 ## About Me
 
@@ -41,50 +34,29 @@ const rajat = {
 
 <br />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/OpenAI%20Codex-111111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Windsurf-111111?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/ChatGPT-111111?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Perplexity-111111?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
-  <img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
-  <img src="https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
-  <img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</div>
+| Build Stack | AI Workbench | Data + Automation |
+| --- | --- | --- |
+| Next.js, React, Tailwind | Cursor, Codex, Claude | Python, Pandas, Notebooks |
+| Node.js, Express, REST APIs | Antigravity, Windsurf, ChatGPT | SQLite, MongoDB, Plotly |
+| TypeScript, JavaScript, Java | Gemini, Perplexity, Lovable | Streamlit, n8n, workflow tools |
 
 ## Featured Work
 
-<div align="center">
-  <a href="https://github.com/Rajat77a/PrepPeer">
-    <img src="https://img.shields.io/badge/PrepPeer-AI%20Mock%20Interview%20Platform-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="PrepPeer project link" />
-  </a>
-  <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis">
-    <img src="https://img.shields.io/badge/Bitcoin%20Sentiment-Data%20Analysis%20Notebook-00D9FF?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0d1117" alt="Bitcoin sentiment analysis project link" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/Rajat77a/university-event-management-system">
-    <img src="https://img.shields.io/badge/University%20Events-Full%20Stack%20Platform-00D9FF?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="University event management system project link" />
-  </a>
-  <a href="https://github.com/Rajat77a/ZedWorks-portfolio">
-    <img src="https://img.shields.io/badge/ZedWorks-Creative%20Portfolio-00D9FF?style=for-the-badge&logo=canva&logoColor=white&labelColor=0d1117" alt="ZedWorks portfolio project link" />
-  </a>
-</div>
+| Project | What It Shows | Open |
+| --- | --- | --- |
+| **PrepPeer** | Interview practice product with scoring, leaderboard, and shareable results | [Live app](https://prep-peer.vercel.app) / [Repo](https://github.com/Rajat77a/PrepPeer) |
+| **Bitcoin Sentiment Analysis** | Trading data exploration against market sentiment signals | [Repo](https://github.com/Rajat77a/bitcoin-sentiment-analysis) |
+| **University Event Management** | Full-stack platform thinking: roles, registration, events, APIs | [Repo](https://github.com/Rajat77a/university-event-management-system) |
+| **ZedWorks Portfolio** | Creative brand experiments, content systems, and product storytelling | [Repo](https://github.com/Rajat77a/ZedWorks-portfolio) |
 
 ## GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat77a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat77a&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat77a&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat77a&theme=gruvbox&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
 </div>
 
 ## Contribution Snake
@@ -129,22 +101,9 @@ const rajat = {
 
 ## Connect
 
-<div align="center">
-  <a href="https://prep-peer.vercel.app">
-    <img src="https://img.shields.io/badge/Try%20PrepPeer-Launch%20Live%20App-00D9FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Launch PrepPeer live app" />
-  </a>
-  <a href="https://www.linkedin.com/in/rajat-krishnan77">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-Rajat%20Krishnan-00D9FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="Connect on LinkedIn" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="mailto:rajatkrishnan321@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-rajatkrishnan321%40gmail.com-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email Rajat" />
-  </a>
-  <a href="https://github.com/Rajat77a">
-    <img src="https://img.shields.io/badge/Explore%20My%20GitHub-Rajat77a-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Explore GitHub profile" />
-  </a>
-</div>
+| Start Here | Best For |
+| --- | --- |
+| [Launch PrepPeer](https://prep-peer.vercel.app) | Seeing my product work in action |
+| [Connect on LinkedIn](https://www.linkedin.com/in/rajat-krishnan77) | Recruiters, collaborators, and project conversations |
+| [Email Me](mailto:rajatkrishnan321@gmail.com) | Direct opportunities and quick reach-outs |
+| [Explore My GitHub](https://github.com/Rajat77a) | Code, experiments, and active repositories |
