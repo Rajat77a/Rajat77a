@@ -29,20 +29,12 @@
   <circle cx="98" cy="50" r="6" fill="#22C55E"/>
   <text x="126" y="56" fill="#64748B" font-family="Consolas, monospace" font-size="14" font-weight="700">intro.rajat</text>
 
-  <g font-family="Consolas, monospace" font-size="28" font-weight="900" filter="url(#lift)">
-    <text x="56" y="110" fill="#020617">Hi, I'm Rajat Krishnan.</text>
-    <text x="56" y="110" fill="#020617">Integrated MTech CSE @ VIT.</text>
-    <text x="56" y="110" fill="#020617">I build PrepPeer.</text>
-    <text x="56" y="110" fill="#020617">I create full-stack products.</text>
-    <text x="56" y="110" fill="#020617">I explore AI tools, automation, and data.</text>
-  </g>
-
   <g font-family="Consolas, monospace" font-size="28" font-weight="900">
     <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip1)">Hi, I'm Rajat Krishnan.</text>
     <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip2)">Integrated MTech CSE @ VIT.</text>
-    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip3)">I build PrepPeer.</text>
-    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip4)">I create full-stack products.</text>
-    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip5)">I explore AI tools, automation, and data.</text>
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip3)">I create full-stack products.</text>
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip4)">I explore AI tools and automation.</text>
+    <text x="56" y="110" fill="url(#textGrad)" clip-path="url(#clip5)">I turn ideas into useful shipped projects.</text>
   </g>
 
   <rect x="56" y="132" width="848" height="2" fill="#1E293B"/>
