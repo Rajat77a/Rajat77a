@@ -1,5 +1,3 @@
-<img src="assets/profile-hero.svg" alt="Rajat Krishnan portfolio hero" width="100%" />
-
 <img src="assets/live-typing.svg" alt="Animated about me typing banner" width="100%" />
 
 <p align="center">
