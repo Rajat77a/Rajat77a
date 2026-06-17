@@ -17,8 +17,7 @@ const rajat = {
 ```
 
 - Building **NextStep.AI**, a platform that turns confusing school report cards into clear, actionable guidance for parents, teachers, and schools.
-- Previously built **PrepPeer**, an AI mock interview platform with role-specific questions, instant AI scoring, live leaderboards, and shareable score cards.
-- Developing **GridWatch**, an energy theft detection and grid monitoring system using anomaly detection and geospatial dashboards.
+- Curious about turning messy real-world problems into simple, usable products with thoughtful engineering.
 - Exploring how **AI, product design, and real-world user workflows** can come together in useful tools.
 - Working across **Python, Java, C, JavaScript, TypeScript, backend APIs, notebooks, and frontend systems**.
 - Open to collaborating on projects that mix **AI, web, education, data, or creator tools**.
