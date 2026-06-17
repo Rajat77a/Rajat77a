@@ -11,12 +11,13 @@ const rajat = {
   role: "Integrated MTech CSE student @ VIT",
   location: "India",
   focus: ["AI products", "full-stack web apps", "automation", "data analysis"],
-  currentlyBuilding: "PrepPeer - an AI mock interview platform for Indian job seekers",
+  currentlyBuilding: "NextStep.AI - an AI platform that turns school report cards into clear action plans for parents",
   mindset: "Learn fast, build clearly, improve every version"
 };
 ```
 
-- Building **PrepPeer**, an AI mock interview platform with role-specific questions, instant AI scoring, live leaderboards, and shareable score cards.
+- Building **NextStep.AI**, a platform that turns confusing school report cards into clear, actionable guidance for parents, teachers, and schools.
+- Previously built **PrepPeer**, an AI mock interview platform with role-specific questions, instant AI scoring, live leaderboards, and shareable score cards.
 - Developing **GridWatch**, an energy theft detection and grid monitoring system using anomaly detection and geospatial dashboards.
 - Exploring how **AI, product design, and real-world user workflows** can come together in useful tools.
 - Working across **Python, Java, C, JavaScript, TypeScript, backend APIs, notebooks, and frontend systems**.
@@ -65,16 +66,17 @@ const rajat = {
 ## Featured Work
 
 <p align="center">
+  <a href="https://next-step-2-tawny.vercel.app"><img src="assets/project-nextstep.svg" width="430" alt="NextStep.AI project card" /></a>
   <a href="https://prep-peer.vercel.app"><img src="assets/project-preppeer.svg" width="430" alt="PrepPeer project card" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Rajat77a/gridwatch"><img src="assets/project-gridwatch.svg" width="430" alt="GridWatch project card" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis"><img src="assets/project-bitcoin.svg" width="430" alt="Bitcoin sentiment project card" /></a>
-  <a href="https://github.com/Rajat77a/university-event-management-system"><img src="assets/project-events.svg" width="430" alt="University events project card" /></a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/Rajat77a/university-event-management-system"><img src="assets/project-events.svg" width="430" alt="University events project card" /></a>
   <a href="https://github.com/Rajat77a/ZedWorks-portfolio"><img src="assets/project-zedworks.svg" width="430" alt="ZedWorks project card" /></a>
 </p>
 
@@ -130,7 +132,7 @@ const rajat = {
   <summary><strong>Current focus</strong></summary>
   <br />
 
-  - Building PrepPeer into a reliable AI interview platform.
+  - Building NextStep.AI, with separate portals for parents, teachers, and school admins.
   - Improving backend security, authentication, and leaderboard systems.
   - Exploring LLM workflows, automation pipelines, and AI-assisted development.
   - Strengthening practical software engineering through shipped projects.
@@ -151,7 +153,6 @@ const rajat = {
 ## Connect
 
 <p align="center">
-  <a href="https://prep-peer.vercel.app"><img src="assets/connect-preppeer.svg" width="210" alt="Launch PrepPeer" /></a>
   <a href="https://www.linkedin.com/in/rajat-krishnan77"><img src="assets/connect-linkedin.svg" width="210" alt="LinkedIn profile" /></a>
   <a href="mailto:rajatkrishnan321@gmail.com"><img src="assets/connect-email.svg" width="210" alt="Email Rajat" /></a>
   <a href="https://github.com/Rajat77a"><img src="assets/connect-github.svg" width="210" alt="Explore GitHub" /></a>

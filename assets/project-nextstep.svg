@@ -1,0 +1,12 @@
+<svg width="430" height="140" viewBox="0 0 430 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="430" height="140" fill="#0B1020"/>
+  <rect x="14" y="14" width="402" height="112" fill="#111827" stroke="#38BDF8" stroke-width="2"/>
+  <text x="34" y="52" fill="#BAE6FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="900">NextStep.AI</text>
+  <text x="34" y="82" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">Turns school report cards into</text>
+  <text x="34" y="104" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="650">action plans for parents, teachers, schools.</text>
+  <path d="M342 42H390V98H342V42Z" fill="#0F172A" stroke="#38BDF8" stroke-width="3"/>
+  <path d="M354 58H378" stroke="#BAE6FD" stroke-width="4"/>
+  <path d="M354 72H384" stroke="#22C55E" stroke-width="4"/>
+  <path d="M354 86H372" stroke="#F7DF1E" stroke-width="4"/>
+  <path d="M324 104H392V114H324V104Z" fill="#8B5CF6"/>
+</svg>
