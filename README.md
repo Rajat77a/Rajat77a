@@ -141,6 +141,7 @@ const rajat = {
   <summary><strong>Current repositories on my map</strong></summary>
   <br />
 
+  - <a href="https://github.com/Rajat77a/NextStep-2"><strong>NextStep.AI</strong></a> - Multi-portal report card clarity platform for parents, teachers, and school admins.
   - <a href="https://github.com/Rajat77a/PrepPeer"><strong>PrepPeer</strong></a> - AI mock interviews with scoring, leaderboards, and shareable score cards.
   - <a href="https://github.com/Rajat77a/bitcoin-sentiment-analysis"><strong>bitcoin-sentiment-analysis</strong></a> - Hyperliquid trading data analyzed against the Fear and Greed Index.
   - <a href="https://github.com/Rajat77a/university-event-management-system"><strong>university-event-management-system</strong></a> - JavaScript-based event management work.
