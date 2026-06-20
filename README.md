@@ -106,7 +106,7 @@ const rajat = {
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat77a&theme=gruvbox&hide_border=true&area=true&radius=8" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajat77a&theme=gruvbox&hide_border=true&area=true&radius=8&v=20260621" alt="Contribution activity graph" />
 </div>
 
 ## Contribution Snake
