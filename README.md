@@ -65,8 +65,13 @@ const rajat = {
 ## Featured Work
 
 <p align="center">
+  <a href="https://rajat77a.github.io/rajat-portfolio/"><img src="assets/project-portfolio.svg" width="430" alt="Portfolio site" /></a>
   <a href="https://next-step-2-tawny.vercel.app"><img src="assets/project-nextstep.svg" width="430" alt="NextStep.AI project card" /></a>
+</p>
+
+<p align="center">
   <a href="https://prep-peer.vercel.app"><img src="assets/project-preppeer.svg" width="430" alt="PrepPeer project card" /></a>
+  <a href="https://github.com/Rajat77a/gridwatch"><img src="assets/project-gridwatch.svg" width="430" alt="GridWatch project card" /></a>
 </p>
 
 <p align="center">
